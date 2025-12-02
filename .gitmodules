@@ -1,12 +1,12 @@
 [submodule "Modern Computational Physics I"]
 	path = Modern Computational Physics I
-	url = git@github.com:jk-dot/nevf160.git
+	url = git@github.com:kovacoj1/nevf160.git
 	ignore = all
 [submodule "Introduction to Machine Learning with Python"]
 	path = Introduction to Machine Learning with Python
-	url = git@github.com:jk-dot/npfl129.git
+	url = git@github.com:kovacoj1/npfl129.git
 	ignore = all
 [submodule "Numerical Optimization Methods"]
 	path = Numerical Optimization Methods
-	url = git@github.com:jk-dot/nmnv503.git
+	url = git@github.com:kovacoj1/nmnv503.git
 	ignore = all
