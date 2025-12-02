@@ -6,3 +6,7 @@
 	path = Introduction to Machine Learning with Python
 	url = git@github.com:jk-dot/npfl129.git
 	ignore = all
+[submodule "Numerical Optimization Methods"]
+	path = Numerical Optimization Methods
+	url = git@github.com:jk-dot/nmnv503.git
+	ignore = all
